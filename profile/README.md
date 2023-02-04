@@ -9,3 +9,4 @@
 * Sofware Engineering and Architecture: .NET, Azure, Docker, Kubernetes
 * DevOps: CI/CD, Procesess
 * Cloud infrastructure: Azure, AWS
+* DevOps Workshops and trainings for your team.
